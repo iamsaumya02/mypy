@@ -34,4 +34,3 @@ if __name__ == "__main__":
 
     # result
     print(f"The folder contains {image_count} image(s).")
-
